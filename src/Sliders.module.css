@@ -1,0 +1,13 @@
+.sliders_wrapper {
+  width: 800px;
+  padding: 30px;
+  margin: 0 auto;
+}
+.sliders {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.slider_item {
+  margin: 20px 0;
+}
